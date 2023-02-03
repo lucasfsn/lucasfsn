@@ -1,4 +1,6 @@
-<img src="bgc.png" alt="Background">
+<p align="center">
+  <img src="bgc.png" alt="Background" width="75%">
+</p>
 
 <h2 align="center">I'm a student, gamer and programmer.</h2>
 <p align="center">I would like to become a full stack developer in the near future</p>
