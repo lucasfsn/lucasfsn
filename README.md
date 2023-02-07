@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bgc.png" alt="Background" width="75%">
+  <img src="background.png" alt="Background" width="45%">
 </p>
 
 <h2 align="center">I'm a student, gamer and programmer.</h2>
