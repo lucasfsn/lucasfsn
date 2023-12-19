@@ -2,8 +2,6 @@
   <img src="background.png" alt="Background" width="45%">
 </p>
 
-<h2 align="center">I'm a student and programmer.</h2>
-
 <p align="center">🌱 I’m currently learning <strong>React</strong></p>
 
 <h4 align="center">⚡Languages and Tools I've worked with</h4>
