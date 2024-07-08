@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="intro.gif" alt="Background" width="45%">
+  <img width="550" src="intro.gif" alt="Background" width="45%">
 </p>
 
 <p align="center">🌱 I’m a passionate web developer</p>
