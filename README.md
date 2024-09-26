@@ -2,7 +2,7 @@
   <img width="550" src="intro.gif" alt="Background" width="45%">
 </p>
 
-<p align="center">🌱 I’m a passionate web developer</p>
+<p align="center">🌱 I’m a web developer</p>
 
 **💻 Frontend Stack**
 
